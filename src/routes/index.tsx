@@ -3,9 +3,9 @@ import { createFileRoute } from "@tanstack/react-router";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "週末自然散步｜大安森林公園（虛構教學活動）" },
+      { title: "週末森林小旅行｜大安森林公園（虛構教學活動）" },
       { name: "description", content: "2026/12/12 上午 9:00–12:00，在大安森林公園慢慢走、看樹、聽鳥。本活動為虛構教學示範。" },
-      { property: "og:title", content: "週末自然散步｜大安森林公園" },
+      { property: "og:title", content: "週末森林小旅行｜大安森林公園" },
       { property: "og:description", content: "2026/12/12 上午 9:00–12:00 大安森林公園自然散步（虛構教學活動）。" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
@@ -40,7 +40,7 @@ function Index() {
           <span className="inline-block rounded-full bg-card/70 px-4 py-1 text-sm text-primary border border-border">
             虛構教學活動 · Demo
           </span>
-          <h1 className="mt-6 font-serif text-5xl md:text-7xl font-bold tracking-tight">週末自然散步</h1>
+          <h1 className="mt-6 font-serif text-5xl md:text-7xl font-bold tracking-tight">週末森林小旅行</h1>
           <p className="mt-6 max-w-xl text-lg text-muted-foreground leading-relaxed">
             在城市中央的森林裡，花一個早上慢慢走、深呼吸，重新和樹與鳥打招呼。
           </p>
@@ -105,7 +105,7 @@ function Index() {
             />
           </div>
           <a
-            className="mt-4 inline-block text-sm text-primary underline underline-offset-4"
+            className="mt-4 block w-full rounded-full bg-primary px-6 py-3 text-center text-sm font-medium text-primary-foreground sm:inline-block sm:w-auto"
             href="https://www.openstreetmap.org/?mlat=25.0335&mlon=121.5355#map=17/25.0335/121.5355"
             target="_blank" rel="noreferrer"
           >
