@@ -1,14 +1,16 @@
-# Welcome to your Lovable project
+# Nature Walk Weekend
+
+請幫我做一頁「週末自然散步」活動網頁。示範日期是2026年12月12日上午9點到12點，地點是大安森林公園。放上活動介紹、時間地請幫我做一頁「週末自然散步」活動網頁。示範日期是2026年12月12日上午9點到12點，地點是大安森林公園。放上活動介紹、時間地點和集合地圖，風格自然清爽，並標示這是虛構教學活動。點和集合地圖，風格自然清爽，並標示這是虛構教學活動。
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/30fb078a-2ea9-4ac6-bcb8-ffc2c66741d8).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +22,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
