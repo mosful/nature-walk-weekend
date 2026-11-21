@@ -42,7 +42,7 @@ function Index() {
           </span>
           <h1 className="mt-6 font-serif text-5xl md:text-7xl font-bold tracking-tight">週末森林小旅行</h1>
           <p className="mt-6 max-w-xl text-lg text-muted-foreground leading-relaxed">
-            在城市中央的森林裡，花一個早上慢慢走、深呼吸，重新和樹與鳥打招呼。
+            在城市中央的森林裡，花一個早上慢慢走、深呼吸，重新和樹與鳥打招呼。歡迎一起來散步吧。
           </p>
           <div className="mt-8 flex flex-wrap gap-3 text-sm">
             <span className="rounded-full bg-primary text-primary-foreground px-4 py-2">2026 年 12 月 12 日（六）</span>
